@@ -4,6 +4,6 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JSGC-ECI&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSGC-ECI&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanGuayazanC&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGuayazanC&layout=compact&theme=tokyonight)
 
