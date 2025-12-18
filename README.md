@@ -6,7 +6,7 @@
 🎓 Estudiante de **Ingeniería de Sistemas** en la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co).
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-sebastián-guayazán-clavijo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebasti%C3%A1n-guayaz%C3%A1n-clavijo)
 [![Outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:juan.guayazan-c@mail.escuelaing.edu.co)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanGuayazanC)
 
