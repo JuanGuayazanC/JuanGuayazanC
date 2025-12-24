@@ -20,3 +20,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JuanGuayazanC&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGuayazanC&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+
+
+### 💳 Github Profile Summary Card
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanGuayazanC&theme=github_dark)
+  
+</div>
+
+### 📈 Activity Graph
+
+<div align="center">
+
+[![Juanseom github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanGuayazanC&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
