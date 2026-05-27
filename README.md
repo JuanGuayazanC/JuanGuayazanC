@@ -1,10 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=220&section=header&text=Juan%20Sebasti%C3%A1n%20Guayaz%C3%A1n&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Ing.%20Sistemas%20%7C%20ECI%20%F0%9F%87%A8%F0%9F%87%B4%20%7C%20Bogot%C3%A1&descAlignY=60&descSize=17&animation=fadeIn" />
 </div>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Estudiante+de+Ing.+de+Sistemas+%F0%9F%8E%93;Desarrollo+Web+%7C+Bases+de+Datos+%7C+Ciencia+de+Datos;Always+building+things+that+matter+%F0%9F%9A%80;El+c%C3%B3digo+es+poes%C3%ADa+que+las+m%C3%A1quinas+entienden+%E2%9A%A1" alt="Typing SVG" />
 </div>
+
 <br/>
+
 <div align="center">
   <img src="https://img.shields.io/github/followers/JuanGuayazanC?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=0e75b6" />
   &nbsp;
@@ -38,6 +41,11 @@
 💡 **Me motiva** que los problemas de la vida
 se puedan solucionar a través de la tecnología
 
+🤝 **Trabajo en equipo** con metodologías ágiles
+como **Scrum** y **Kanban**
+
+⚡ **Fuera del código:**
+patinaje de carreras 🛼 · música 🎵
 
 </td>
 <td width="50%" valign="top">
@@ -64,14 +72,6 @@ const juan = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -86,9 +86,10 @@ const juan = {
 
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,idea,pycharm,figma,jira&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,idea,pycharm,figma,azure,vercel,postman&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" />
 
 **Bases de Datos**
 
