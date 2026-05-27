@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Estudiante+de+Ing.+de+Sistemas+%F0%9F%8E%93;Desarrollo+%7C+Bases+de+Datos+%7C+%F0%9F%A4%96;Always+building+things+that+matter+%F0%9F%9A%80;El+c%C3%B3digo+es+poes%C3%ADa+que+las+m%C3%A1quinas+entienden+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Estudiante+de+Ing.+de+Sistemas+%F0%9F%8E%93;Desarrollo+Web+%7C+Bases+de+Datos+%7C+Ciencia+de+Datos;Always+building+things+that+matter+%F0%9F%9A%80;El+c%C3%B3digo+es+poes%C3%ADa+que+las+m%C3%A1quinas+entienden+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -22,27 +22,71 @@
 
 ## 👨‍💻 Sobre mí
 
-```python
-juan = {
-    "nombre"     : "Juan Sebastián Guayazán Clavijo",
-    "ubicación"  : "Bogotá, Colombia 🇨🇴",
-    "universidad": "Escuela Colombiana de Ingeniería Julio Garavito",
-    "carrera"    : "Ingeniería de Sistemas",
-    "intereses"  : ["Desarrollo Web", "Bases de Datos", "Inteligencia Artificial", "Estadística"],
-    "aprendiendo": ["Spring Boot", "TensorFlow / Keras", "R Shiny", "GitHub Actions"],
-    "frase"      : "El código es poesía que las máquinas entienden ⚡"
-}
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Perfil
+
+🎓 **Estudiante de Ingeniería de Sistemas**
+📍 *Escuela Colombiana de Ingeniería Julio Garavito*
+🇨🇴 *Bogotá, Colombia*
+
+💡 **Me motiva** que los problemas de la vida
+se puedan solucionar a través de la tecnología
+
+🤝 **Trabajo en equipo** con metodologías ágiles
+como **Scrum** y **Kanban**
+
+⚡ **Fuera del código:**
+patinaje de carreras 🛼 · música 🎵
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 En código
+
+```typescript
+const juan = {
+  rasgos   : ["Disciplinado", "Analítico",
+              "Carismático", "Orientado al aprendizaje"],
+  valores  : ["Liderazgo", "Comunicación", "Aprendizaje"],
+  agilidad : ["Scrum", "Kanban"],
+  hobbies  : ["Patinaje de carreras 🛼", "Música 🎵"],
+  mentalidad: "Los problemas tienen solución tecnológica 💡",
+  objetivo : "Impactar vidas a través del software 🚀"
+};
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" />
+</div>
+
+<br/>
+
+<div align="center">
 
 **Lenguajes**
 
-<img src="https://skillicons.dev/icons?i=python,java,r,c,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,r,c,haskell,js,ts,html,css&theme=dark" />
 
 **Frameworks**
 
@@ -50,7 +94,7 @@ juan = {
 
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,idea,pycharm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,idea,pycharm,figma,jira&theme=dark" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" />
 
@@ -69,7 +113,46 @@ juan = {
 
 ---
 
+## 🌱 Actualmente Aprendiendo
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="120" />
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+🌐 **Spring Boot & Microservicios**
+*Arquitectura backend con APIs REST y JWT*
+
+🐳 **Docker & CI/CD**
+*Contenerización y pipelines con GitHub Actions*
+
+</td>
+<td width="50%">
+
+📊 **R Shiny & Visualización**
+*Dashboards interactivos para análisis estadístico*
+
+🗄️ **Diseño avanzado de BD**
+*Optimización de queries y modelado en PostgreSQL*
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanGuayazanC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
@@ -128,6 +211,12 @@ juan = {
 ---
 
 ## 📫 Conecta Conmigo
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-sebasti%C3%A1n-guayaz%C3%A1n-clavijo">
