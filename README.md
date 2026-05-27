@@ -35,17 +35,14 @@
 ### 🎓 Perfil
 
 🎓 **Estudiante de Ingeniería de Sistemas**
+
 📍 *Escuela Colombiana de Ingeniería Julio Garavito*
+
 🇨🇴 *Bogotá, Colombia*
 
 💡 **Me motiva** que los problemas de la vida
 se puedan solucionar a través de la tecnología
 
-🤝 **Trabajo en equipo** con metodologías ágiles
-como **Scrum** y **Kanban**
-
-⚡ **Fuera del código:**
-patinaje de carreras 🛼 · música 🎵
 
 </td>
 <td width="50%" valign="top">
@@ -184,21 +181,6 @@ const juan = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanGuayazanC&theme=tokyonight" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanGuayazanC&theme=tokyonight" />
-</div>
-
----
-
-## 🐍 Serpiente de Contribuciones
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/JuanGuayazanC/JuanGuayazanC/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/JuanGuayazanC/JuanGuayazanC/output/github-snake.svg" />
-    <img alt="snake animation"
-         src="https://raw.githubusercontent.com/JuanGuayazanC/JuanGuayazanC/output/github-snake.svg" />
-  </picture>
 </div>
 
 ---
