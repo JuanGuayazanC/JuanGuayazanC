@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Estudiante+de+Ing.+de+Sistemas+%F0%9F%8E%93;Desarrollo+Web+%7C+Bases+de+Datos+%7C+IA+%F0%9F%A4%96;Always+building+things+that+matter+%F0%9F%9A%80;El+c%C3%B3digo+es+poes%C3%ADa+que+las+m%C3%A1quinas+entienden+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Estudiante+de+Ing.+de+Sistemas+%F0%9F%8E%93;Desarrollo+%7C+Bases+de+Datos+%7C+%F0%9F%A4%96;Always+building+things+that+matter+%F0%9F%9A%80;El+c%C3%B3digo+es+poes%C3%ADa+que+las+m%C3%A1quinas+entienden+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -48,20 +48,22 @@ juan = {
 
 <img src="https://skillicons.dev/icons?i=spring,react,maven&theme=dark" />
 
-**Data & IA**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,anaconda&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="45" height="45" />
-
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,idea,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,idea,pycharm&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" />
 
 **Bases de Datos**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" />
+
+**Ciencia de Datos**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,anaconda&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="45" height="45" />
 
 </div>
 
@@ -106,6 +108,21 @@ juan = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanGuayazanC&theme=tokyonight" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanGuayazanC&theme=tokyonight" />
+</div>
+
+---
+
+## 🐍 Serpiente de Contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/JuanGuayazanC/JuanGuayazanC/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/JuanGuayazanC/JuanGuayazanC/output/github-snake.svg" />
+    <img alt="snake animation"
+         src="https://raw.githubusercontent.com/JuanGuayazanC/JuanGuayazanC/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
