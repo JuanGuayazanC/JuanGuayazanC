@@ -103,6 +103,65 @@ const juan = {
 
 ---
 
+## 🚀 Proyectos Destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧟 [POOBvsZOMBIES](https://github.com/JuanGuayazanC/POOBvsZOMBIES-POOB)
+Simulador inspirado en *Plants vs Zombies*: gestión de recursos, tácticas de ataque/defensa y lógica de puntajes entre jugadores y máquina.
+`Java` `POO` `UML`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📈 [SITMF](https://github.com/JuanGuayazanC/SITMF-PTIA)
+Sistema de IA y visión por computador para clasificar tendencias (alza/baja) del mercado financiero a partir de gráficos bursátiles.
+`Python` `Jupyter Notebook` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 [SICEI](https://github.com/JuanGuayazanC/SICEI-MBDA)
+Sistema de gestión académica para el seguimiento de estudiantes, materias, prerrequisitos e inscripciones de un programa de pregrado.
+`Oracle` `PL/SQL` `UML`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 [Desempeño ICFES (EVTD)](https://github.com/JuanGuayazanC/Analisis-Exploratorio-y-Visualizacion-del-Desempeno-ICFES-EVTD)
+Análisis exploratorio (EDA) del dataset ICFES: limpieza de datos, análisis uni/bivariado, correlaciones y reportes en HTML/PDF.
+`R` `RMarkdown` `Data Science`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚂 [Juego de Trenes](https://github.com/JuanGuayazanC/Juego-de-Trenes-AYPR)
+Implementación del juego de mesa donde dos jugadores compiten por ordenar sus cartas aplicando reglas aleatorias y estratégicas.
+`Python` `Algoritmos`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔢 [Secuencia de Collatz](https://github.com/JuanGuayazanC/Secuencia-de-Collatz-ODSC)
+Implementación en ensamblador de la conjetura de Collatz sobre arquitectura ARM, ejecutada en Raspberry Pi.
+`Assembly` `ARM` `Raspberry Pi`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <sub>Más proyectos en <a href="https://github.com/JuanGuayazanC?tab=repositories">mis repositorios</a> 👀</sub>
+</div>
+
+---
+
 ## 🌱 Actualmente Aprendiendo
 
 <div align="center">
@@ -167,20 +226,6 @@ const juan = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanGuayazanC&theme=tokyo-night&hide_border=true&area=true&area_color=0e75b6" />
-</div>
-
----
-
-## 💳 Resumen del Perfil
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanGuayazanC&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanGuayazanC&theme=tokyonight" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanGuayazanC&theme=tokyonight" />
 </div>
 
 ---
