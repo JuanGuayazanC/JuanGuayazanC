@@ -76,6 +76,7 @@ const juan = {
 **Lenguajes**
 
 <img src="https://skillicons.dev/icons?i=python,java,r,c,haskell,js,ts,html,css&theme=dark" />
+<img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" width="45" height="45" />
 <img src="https://api.iconify.design/vscode-icons/file-type-plsql.svg" width="45" height="45" />
 <img src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" width="45" height="45" />
 
