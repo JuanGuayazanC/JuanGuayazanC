@@ -76,9 +76,8 @@ const juan = {
 **Lenguajes**
 
 <img src="https://skillicons.dev/icons?i=python,java,r,c,haskell,js,ts,html,css&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Assembly-ARM-444444?style=for-the-badge&logo=arm&logoColor=white" />
+<img src="https://api.iconify.design/vscode-icons/file-type-plsql.svg" width="45" height="45" />
+<img src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" width="45" height="45" />
 
 **Frameworks**
 
