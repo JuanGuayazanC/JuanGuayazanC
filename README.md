@@ -75,51 +75,51 @@ const juan = {
 
 **Lenguajes**
 
+<!-- Python, Java, R, C, Haskell, JavaScript, TypeScript, HTML, CSS -->
 <img src="https://skillicons.dev/icons?i=python,java,r,c,haskell,js,ts,html,css&theme=dark" />
+<!-- SQL -->
 <img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" width="45" height="45" />
+<!-- PL/SQL -->
 <img src="https://api.iconify.design/vscode-icons/file-type-plsql.svg" width="45" height="45" />
+<!-- Assembly -->
 <img src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" width="45" height="45" />
 
 **Frameworks**
 
+<!-- Spring, React, Maven -->
 <img src="https://skillicons.dev/icons?i=spring,react,maven&theme=dark" />
 
 **Herramientas**
 
-*Git & GitHub*
-
+<!-- Git, GitHub, GitHub Actions -->
 <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
-
-*JetBrains*
-
+<!-- JetBrains: IntelliJ IDEA, PyCharm -->
 <img src="https://skillicons.dev/icons?i=idea,pycharm&theme=dark" />
+<!-- JetBrains: DataGrip -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="45" height="45" />
-
-*Microsoft*
-
+<!-- Microsoft: VS Code, Azure -->
 <img src="https://skillicons.dev/icons?i=vscode,azure&theme=dark" />
-
-*Google*
-
+<!-- Google Cloud Platform -->
 <img src="https://skillicons.dev/icons?i=gcp&theme=dark" />
-
-*Atlassian*
-
+<!-- Atlassian: Jira -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" />
-
-*Otras*
-
+<!-- Figma, Vercel, Docker, Postman -->
 <img src="https://skillicons.dev/icons?i=figma,vercel,docker,postman&theme=dark" />
 
 **Bases de Datos**
 
+<!-- PostgreSQL, MongoDB -->
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+<!-- Oracle -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" />
 
 **Ciencia de Datos**
 
+<!-- TensorFlow, Anaconda -->
 <img src="https://skillicons.dev/icons?i=tensorflow,anaconda&theme=dark" />
+<!-- Jupyter Notebook -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" />
+<!-- RStudio -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="45" height="45" />
 
 </div>
