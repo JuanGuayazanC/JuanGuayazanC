@@ -170,8 +170,8 @@ const juan = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanGuayazanC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGuayazanC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="180" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=JuanGuayazanC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" height="200" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=JuanGuayazanC&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&count_private=true" height="200" />
 </div>
 
 <div align="center">
@@ -183,7 +183,7 @@ const juan = {
 ## 🏆 Trofeos
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=JuanGuayazanC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=JuanGuayazanC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=6" />
 </div>
 
 ---
