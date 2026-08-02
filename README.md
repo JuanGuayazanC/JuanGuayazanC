@@ -86,10 +86,30 @@ const juan = {
 
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,idea,pycharm,figma,azure,vercel,postman&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" />
+*Git & GitHub*
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
+
+*JetBrains*
+
+<img src="https://skillicons.dev/icons?i=idea,pycharm&theme=dark" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="45" height="45" />
+
+*Microsoft*
+
+<img src="https://skillicons.dev/icons?i=vscode,azure&theme=dark" />
+
+*Google*
+
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" />
+
+*Atlassian*
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" />
+
+*Otras*
+
+<img src="https://skillicons.dev/icons?i=figma,vercel,docker,postman&theme=dark" />
 
 **Bases de Datos**
 
