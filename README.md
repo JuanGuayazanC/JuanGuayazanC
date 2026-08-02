@@ -75,19 +75,23 @@ const juan = {
 
 **Lenguajes**
 
-<!-- Python, Java, R, C, Haskell, JavaScript, TypeScript, HTML, CSS -->
-<img src="https://skillicons.dev/icons?i=python,java,r,c,haskell,js,ts,html,css&theme=dark" />
+<!-- Python, Java, R, C, C++, C#, Go, Haskell, JavaScript, TypeScript, HTML, CSS, PHP, Bash -->
+<img src="https://skillicons.dev/icons?i=python,java,r,c,cpp,cs,go,haskell,js,ts,html,css,php,bash&theme=dark" />
 <!-- SQL -->
 <img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" width="45" height="45" />
 <!-- PL/SQL -->
 <img src="https://api.iconify.design/vscode-icons/file-type-plsql.svg" width="45" height="45" />
 <!-- Assembly -->
 <img src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" width="45" height="45" />
+<!-- LaTeX -->
+<img src="https://skillicons.dev/icons?i=latex&theme=dark" />
+<!-- Prolog -->
+<img src="https://api.iconify.design/vscode-icons/file-type-prolog.svg" width="45" height="45" />
 
-**Frameworks**
+**Frameworks & Backend**
 
-<!-- Spring, React, Maven -->
-<img src="https://skillicons.dev/icons?i=spring,react,maven&theme=dark" />
+<!-- Spring, React, Maven, Kafka, Redis -->
+<img src="https://skillicons.dev/icons?i=spring,react,maven,kafka,redis&theme=dark" />
 
 **Herramientas**
 
@@ -99,8 +103,6 @@ const juan = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="45" height="45" />
 <!-- Microsoft: VS Code, Azure -->
 <img src="https://skillicons.dev/icons?i=vscode,azure&theme=dark" />
-<!-- Google Cloud Platform -->
-<img src="https://skillicons.dev/icons?i=gcp&theme=dark" />
 <!-- Atlassian: Jira -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" />
 <!-- Figma, Vercel, Docker, Postman -->
