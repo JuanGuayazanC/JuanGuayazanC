@@ -75,28 +75,53 @@ const juan = {
 
 **Lenguajes**
 
-<img src="https://skillicons.dev/icons?i=python,java,r,c,haskell,js,ts,html,css&theme=dark" />
+<!-- Python, Java, R, C, C++, C#, Go, Haskell, JavaScript, TypeScript, HTML, CSS, PHP, Bash -->
+<img src="https://skillicons.dev/icons?i=python,java,r,c,cpp,cs,go,haskell,js,ts,html,css,php,bash&theme=dark" />
+<!-- SQL -->
+<img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" width="45" height="45" />
+<!-- PL/SQL -->
+<img src="https://api.iconify.design/vscode-icons/file-type-plsql.svg" width="45" height="45" />
+<!-- Assembly -->
+<img src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" width="45" height="45" />
+<!-- LaTeX -->
+<img src="https://skillicons.dev/icons?i=latex&theme=dark" />
+<!-- Prolog -->
+<img src="https://api.iconify.design/vscode-icons/file-type-prolog.svg" width="45" height="45" />
 
-**Frameworks**
+**Frameworks & Backend**
 
-<img src="https://skillicons.dev/icons?i=spring,react,maven&theme=dark" />
+<!-- Spring, React, Maven, Kafka, Redis -->
+<img src="https://skillicons.dev/icons?i=spring,react,maven,kafka,redis&theme=dark" />
 
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,idea,pycharm,figma,azure,vercel,postman&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" />
+<!-- Git, GitHub, GitHub Actions -->
+<img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
+<!-- JetBrains: IntelliJ IDEA, PyCharm -->
+<img src="https://skillicons.dev/icons?i=idea,pycharm&theme=dark" />
+<!-- JetBrains: DataGrip -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="45" height="45" />
+<!-- Microsoft: VS Code, Azure -->
+<img src="https://skillicons.dev/icons?i=vscode,azure&theme=dark" />
+<!-- Atlassian: Jira -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" />
+<!-- Figma, Vercel, Docker, Postman -->
+<img src="https://skillicons.dev/icons?i=figma,vercel,docker,postman&theme=dark" />
 
 **Bases de Datos**
 
+<!-- PostgreSQL, MongoDB -->
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+<!-- Oracle -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" />
 
 **Ciencia de Datos**
 
+<!-- TensorFlow, Anaconda -->
 <img src="https://skillicons.dev/icons?i=tensorflow,anaconda&theme=dark" />
+<!-- Jupyter Notebook -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" />
+<!-- RStudio -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="45" height="45" />
 
 </div>
@@ -115,20 +140,20 @@ const juan = {
 <tr>
 <td width="50%">
 
-🌐 **Spring Boot & Microservicios**
-*Arquitectura backend con APIs REST y JWT*
+🏗️ **Arquitecturas de Software**
+*Estilos arquitectónicos, patrones y atributos de calidad*
 
-🐳 **Docker & CI/CD**
-*Contenerización y pipelines con GitHub Actions*
+🌐 **Arquitectura y Servicios de Red**
+*Protocolos, infraestructura y comunicación entre sistemas*
 
 </td>
 <td width="50%">
 
-📊 **R Shiny & Visualización**
-*Dashboards interactivos para análisis estadístico*
+⚙️ **Desarrollo y Operaciones de Software (DevOps)**
+*Integración y entrega continua, automatización de pipelines*
 
-🗄️ **Diseño avanzado de BD**
-*Optimización de queries y modelado en PostgreSQL*
+🤖 **Principios y Tecnologías de IA**
+*Fundamentos de inteligencia artificial aplicada*
 
 </td>
 </tr>
@@ -145,8 +170,8 @@ const juan = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanGuayazanC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGuayazanC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" height="180" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=JuanGuayazanC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" height="200" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=JuanGuayazanC&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&count_private=true" height="200" />
 </div>
 
 <div align="center">
@@ -158,7 +183,7 @@ const juan = {
 ## 🏆 Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanGuayazanC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=JuanGuayazanC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=6" />
 </div>
 
 ---
