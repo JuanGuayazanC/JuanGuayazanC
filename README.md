@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=220&section=header&text=Juan%20Sebasti%C3%A1n%20Guayaz%C3%A1n%20Clavijo&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Ing.%20Sistemas%20%7C%20ECI%20%F0%9F%87%A8%F0%9F%87%B4%20%7C%20Bogot%C3%A1&descAlignY=60&descSize=17&animation=fadeIn" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Estudiante+de+Ing.+de+Sistemas+%F0%9F%8E%93;Desarrollo+Web+%7C+Bases+de+Datos+%7C+Ciencia+de+Datos;Always+building+things+that+matter+%F0%9F%9A%80;El+c%C3%B3digo+es+poes%C3%ADa+que+las+m%C3%A1quinas+entienden+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
