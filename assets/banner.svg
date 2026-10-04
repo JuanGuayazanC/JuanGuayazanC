@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" width="960" height="260" role="img" aria-labelledby="t d">
+  <title id="t">Juan Sebastián Guayazán Clavijo</title>
+  <desc id="d">Banner holográfico: Ingeniería de Sistemas e Ingeniería Estadística, Escuela Colombiana de Ingeniería Julio Garavito, Bogotá.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06101c"/><stop offset="1" stop-color="#0a2338"/></linearGradient>
+    <linearGradient id="holo" x1="0" x2="1"><stop offset="0" stop-color="#00c6ff"/><stop offset=".5" stop-color="#7ee8ff"/><stop offset="1" stop-color="#0e75b6"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#0e75b6" stroke-opacity=".25"/></pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#00c6ff" fill-opacity=".07"/></pattern>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="960" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="960" height="260" rx="18" fill="url(#grid)"/>
+  <rect width="960" height="260" rx="18" fill="url(#scan)"/>
+  <rect x="8" y="8" width="944" height="244" rx="12" fill="none" stroke="url(#holo)" stroke-width="2" filter="url(#glow)"/>
+  <g fill="none" stroke="#00c6ff" stroke-opacity=".5">
+    <circle cx="830" cy="130" r="86"/><circle cx="830" cy="130" r="58"/><circle cx="830" cy="130" r="30"/>
+    <path d="M744 130H916M830 44V216"/>
+  </g>
+  <circle cx="830" cy="130" r="6" fill="#7ee8ff" filter="url(#glow)"><animate attributeName="r" values="4;9;4" dur="2.4s" repeatCount="indefinite"/></circle>
+  <text x="48" y="78" fill="#7ee8ff" font-family="ui-monospace, Consolas, monospace" font-size="16" opacity=".85">&gt; identidad.holograma --online</text>
+  <text x="48" y="130" fill="url(#holo)" font-family="ui-monospace, Consolas, monospace" font-size="38" font-weight="700" filter="url(#glow)">JUAN SEBASTIÁN</text>
+  <text x="48" y="174" fill="url(#holo)" font-family="ui-monospace, Consolas, monospace" font-size="38" font-weight="700" filter="url(#glow)">GUAYAZÁN CLAVIJO</text>
+  <text x="48" y="212" fill="#b8d4e8" font-family="ui-monospace, Consolas, monospace" font-size="17">Ing. Sistemas  ·  Ing. Estadística  ·  ECI  ·  Bogotá</text>
+  <rect x="0" y="0" width="960" height="3" fill="#7ee8ff" opacity=".35"><animate attributeName="y" values="0;257;0" dur="6s" repeatCount="indefinite"/></rect>
+</svg>

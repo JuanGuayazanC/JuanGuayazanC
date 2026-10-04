@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/banner.svg" width="960" alt="Juan Sebastián Guayazán Clavijo, Ing. Sistemas e Ing. Estadística, ECI, Bogotá" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=220&section=header&text=Juan%20Sebasti%C3%A1n%20Guayaz%C3%A1n%20Clavijo&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Ing.%20Sistemas%20%7C%20ECI%20%F0%9F%87%A8%F0%9F%87%B4%20%7C%20Bogot%C3%A1&descAlignY=60&descSize=17&animation=fadeIn" />
 </div>
 
@@ -21,6 +25,10 @@
 ---
 
 ## 👨‍💻 Sobre mí · `$ whoami`
+
+<p align="center">
+  <img src="assets/whoami.svg" width="960" alt="Terminal con el perfil de Juan Sebastián Guayazán Clavijo" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
@@ -93,7 +101,8 @@ const juan = {
         <!-- LaTeX -->
         <img src="https://skillicons.dev/icons?i=latex&theme=dark" />
         <!-- Prolog -->
-        <img src="https://api.iconify.design/vscode-icons/file-type-prolog.svg" width="45" height="45" />
+        <img src="https://api.iconify.design/vscode-icons/file-type-prolog.svg" width="45" height="45" /><br>
+        <sub><code>Python · Java · R · C · C++ · C# · Go · Haskell · JavaScript · TypeScript · HTML · CSS · PHP · Bash · SQL · PL/SQL · Assembly · LaTeX · Prolog</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ⚙ frameworks_backend:</code><br><br>
         <!-- Spring, React, Maven, Kafka, Redis -->
@@ -132,7 +141,8 @@ const juan = {
         <!-- Atlassian: Jira -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" />
         <!-- Figma, Vercel, Docker, Postman -->
-        <img src="https://skillicons.dev/icons?i=figma,vercel,docker,postman&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=figma,vercel,docker,postman&theme=dark" /><br>
+        <sub><code>Git · GitHub · GitHub Actions · IntelliJ IDEA · PyCharm · DataGrip · VS Code · Azure · Jira · Figma · Vercel · Docker · Postman</code></sub>
       </td>
     </tr>
   </tbody>
