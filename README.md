@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="960" alt="Juan Sebastián Guayazán Clavijo, Ing. Sistemas e Ing. Estadística, ECI, Bogotá" />
+  <img src="assets/banner.svg" width="1100" alt="Ventana de vim con profile.yml de Juan Sebastián Guayazán Clavijo" />
 </div>
 
 <div align="center">
