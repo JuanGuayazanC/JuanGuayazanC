@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 390" width="960" height="390" role="img" aria-labelledby="t d">
   <title id="t">Juan Sebastián Guayazán Clavijo</title>
-  <desc id="d">Terminal con whoami: estudiante de Ingeniería de Sistemas e Ingeniería Estadística en Bogotá.</desc>
+  <desc id="d">Terminal con whoami: estudiante de Ingeniería de Sistemas en Bogotá.</desc>
   <defs>
     <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#00c6ff"/><stop offset="1" stop-color="#0e75b6"/></linearGradient>
     <filter id="glow" x="-20%" y="-30%" width="140%" height="160%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -16,17 +16,17 @@
   <text x="206" y="143" fill="#8f91a8" font-family="ui-monospace, Consolas, monospace" font-size="18">—</text>
   <text x="231" y="143" fill="#f3d29b" font-family="ui-monospace, Consolas, monospace" font-size="18">Estudiante de Ingeniería</text>
   <path d="M48 166H604" stroke="#25324a"/>
-  <text x="48" y="196" fill="#8f91a8" font-family="ui-monospace, Consolas, monospace" font-size="17">context:</text>
-  <text x="166" y="196" fill="#7ee8ff" font-family="ui-monospace, Consolas, monospace" font-size="17">Bogotá, Colombia · ECI</text>
+  <text x="48" y="196" fill="#8f91a8" font-family="ui-monospace, Consolas, monospace" font-size="17">school:</text>
+  <text x="166" y="196" fill="#7ee8ff" font-family="ui-monospace, Consolas, monospace" font-size="14">Escuela Colombiana de Ingeniería Julio Garavito</text>
   <text x="48" y="225" fill="#8f91a8" font-family="ui-monospace, Consolas, monospace" font-size="17">mission:</text>
   <text x="166" y="225" fill="#9de4d1" font-family="ui-monospace, Consolas, monospace" font-size="17">impactar vidas a través del software</text>
   <text x="48" y="267" fill="#7ee8ff" font-family="ui-monospace, Consolas, monospace" font-size="20" font-weight="700">❯ ls expertise/</text>
   <text x="48" y="299" fill="#f3a0b5" font-family="ui-monospace, Consolas, monospace" font-size="16">software/</text>
   <text x="190" y="299" fill="#b8d4e8" font-family="ui-monospace, Consolas, monospace" font-size="16">Java · Spring · React · Kafka</text>
   <text x="48" y="326" fill="#f3a0b5" font-family="ui-monospace, Consolas, monospace" font-size="16">datos/</text>
-  <text x="190" y="326" fill="#b8d4e8" font-family="ui-monospace, Consolas, monospace" font-size="16">Python · R · SQL · Estadística</text>
+  <text x="190" y="326" fill="#b8d4e8" font-family="ui-monospace, Consolas, monospace" font-size="16">Python · R · SQL</text>
   <rect x="651" y="78" width="280" height="271" rx="9" fill="#0f1a2c" stroke="#0e75b6" stroke-width="1.5"/>
-  <text x="674" y="111" fill="#f3d29b" font-family="ui-monospace, Consolas, monospace" font-size="17">sistemas + estadística</text>
+  <text x="674" y="111" fill="#f3d29b" font-family="ui-monospace, Consolas, monospace" font-size="17">ingeniería de sistemas</text>
   <circle cx="791" cy="203" r="56" fill="#00c6ff" opacity=".9"/>
   <path d="M674 202H908M674 216H908M674 230H908M674 244H908M674 258H908" stroke="#0f1a2c" stroke-width="5" opacity=".9"/>
   <path d="M674 277C711 247 746 303 785 272S861 249 908 281" fill="none" stroke="#7ee8ff" stroke-width="3" filter="url(#glow)"/>
