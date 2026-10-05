@@ -153,6 +153,25 @@ const juan = {
 
 ---
 
+## 📡 Habilidades · `$ ./skills --radar`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-light.svg" width="390" alt="Radar de habilidades">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+    <img src="assets/radar-langs-light.svg" width="370" alt="Radar de lenguajes">
+  </picture>
+</p>
+
+<p align="center"><sub><code>signals: skill_radar · language_radar · status: learning</code></sub></p>
+
+---
+
 ## 🌱 Actualmente Aprendiendo · `$ ls ~/learning`
 
 <div align="center">
