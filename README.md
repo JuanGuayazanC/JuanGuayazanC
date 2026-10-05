@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=220&section=header&text=Juan%20Sebasti%C3%A1n%20Guayaz%C3%A1n%20Clavijo&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Ing.%20Sistemas%20%7C%20ECI%20%F0%9F%87%A8%F0%9F%87%B4%20%7C%20Bogot%C3%A1&descAlignY=60&descSize=17&animation=fadeIn" />
+  <img src="assets/banner.svg" width="1100" alt="Ventana de vim con profile.yml de Juan Sebastián Guayazán Clavijo" />
 </div>
 
 <div align="center">
@@ -20,7 +20,11 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 Sobre mí · `$ whoami`
+
+<p align="center">
+  <img src="assets/whoami.svg" width="960" alt="Terminal con el perfil de Juan Sebastián Guayazán Clavijo" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
@@ -67,68 +71,108 @@ const juan = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack · `$ cat tech-stack.yaml`
 
 <br/>
 
 <div align="center">
 
-**Lenguajes**
-
-<!-- Python, Java, R, C, C++, C#, Go, Haskell, JavaScript, TypeScript, HTML, CSS, PHP, Bash -->
-<img src="https://skillicons.dev/icons?i=python,java,r,c,cpp,cs,go,haskell,js,ts,html,css,php,bash&theme=dark" />
-<!-- SQL -->
-<img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" width="45" height="45" />
-<!-- PL/SQL -->
-<img src="https://api.iconify.design/vscode-icons/file-type-plsql.svg" width="45" height="45" />
-<!-- Assembly -->
-<img src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" width="45" height="45" />
-<!-- LaTeX -->
-<img src="https://skillicons.dev/icons?i=latex&theme=dark" />
-<!-- Prolog -->
-<img src="https://api.iconify.design/vscode-icons/file-type-prolog.svg" width="45" height="45" />
-
-**Frameworks & Backend**
-
-<!-- Spring, React, Maven, Kafka, Redis -->
-<img src="https://skillicons.dev/icons?i=spring,react,maven,kafka,redis&theme=dark" />
-
-**Herramientas**
-
-<!-- Git, GitHub, GitHub Actions -->
-<img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
-<!-- JetBrains: IntelliJ IDEA, PyCharm -->
-<img src="https://skillicons.dev/icons?i=idea,pycharm&theme=dark" />
-<!-- JetBrains: DataGrip -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="45" height="45" />
-<!-- Microsoft: VS Code, Azure -->
-<img src="https://skillicons.dev/icons?i=vscode,azure&theme=dark" />
-<!-- Atlassian: Jira -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" />
-<!-- Figma, Vercel, Docker, Postman -->
-<img src="https://skillicons.dev/icons?i=figma,vercel,docker,postman&theme=dark" />
-
-**Bases de Datos**
-
-<!-- PostgreSQL, MongoDB -->
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
-<!-- Oracle -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" />
-
-**Ciencia de Datos**
-
-<!-- TensorFlow, Anaconda -->
-<img src="https://skillicons.dev/icons?i=tensorflow,anaconda&theme=dark" />
-<!-- Jupyter Notebook -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" />
-<!-- RStudio -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="45" height="45" />
+<table border="1" cellpadding="14">
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>juan:~$ cat tech-stack.yaml</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ✦ lenguajes:</code><br><br>
+        <!-- Python, Java, R, C, C++, C#, Go, Haskell, JavaScript, TypeScript, HTML, CSS, PHP, Bash -->
+        <img src="https://skillicons.dev/icons?i=python,java,r,c,cpp,cs,go,haskell,js,ts,html,css,php,bash&theme=dark" /><br>
+        <!-- SQL -->
+        <img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" width="45" height="45" />
+        <!-- PL/SQL -->
+        <img src="https://api.iconify.design/vscode-icons/file-type-plsql.svg" width="45" height="45" />
+        <!-- Assembly -->
+        <img src="https://api.iconify.design/vscode-icons/file-type-assembly.svg" width="45" height="45" />
+        <!-- LaTeX -->
+        <img src="https://skillicons.dev/icons?i=latex&theme=dark" />
+        <!-- Prolog -->
+        <img src="https://api.iconify.design/vscode-icons/file-type-prolog.svg" width="45" height="45" /><br>
+        <sub><code>Python · Java · R · C · C++ · C# · Go · Haskell · JavaScript · TypeScript · HTML · CSS · PHP · Bash · SQL · PL/SQL · Assembly · LaTeX · Prolog</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ ⚙ frameworks_backend:</code><br><br>
+        <!-- Spring, React, Maven, Kafka, Redis -->
+        <img src="https://skillicons.dev/icons?i=spring,react,maven,kafka,redis&theme=dark" /><br>
+        <sub><code>Spring · React · Maven · Kafka · Redis</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ▣ bases_de_datos:</code><br><br>
+        <!-- PostgreSQL, MongoDB -->
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+        <!-- Oracle -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" /><br>
+        <sub><code>PostgreSQL · MongoDB · Oracle</code></sub>
+      </td>
+      <td valign="top"><code>├─ ◉ ciencia_de_datos:</code><br><br>
+        <!-- TensorFlow, Anaconda -->
+        <img src="https://skillicons.dev/icons?i=tensorflow,anaconda&theme=dark" />
+        <!-- Jupyter Notebook -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" />
+        <!-- RStudio -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="45" height="45" /><br>
+        <sub><code>TensorFlow · Anaconda · Jupyter · RStudio</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top"><code>╰─ ⌁ herramientas:</code><br><br>
+        <!-- Git, GitHub, GitHub Actions -->
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
+        <!-- JetBrains: IntelliJ IDEA, PyCharm -->
+        <img src="https://skillicons.dev/icons?i=idea,pycharm&theme=dark" />
+        <!-- JetBrains: DataGrip -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="45" height="45" />
+        <!-- Microsoft: VS Code, Azure -->
+        <img src="https://skillicons.dev/icons?i=vscode,azure&theme=dark" />
+        <!-- Atlassian: Jira -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" />
+        <!-- Figma, Vercel, Docker, Postman -->
+        <img src="https://skillicons.dev/icons?i=figma,vercel,docker,postman&theme=dark" /><br>
+        <sub><code>Git · GitHub · GitHub Actions · IntelliJ IDEA · PyCharm · DataGrip · VS Code · Azure · Jira · Figma · Vercel · Docker · Postman</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: learning&nbsp;&nbsp;·&nbsp;&nbsp;environment: student</code></td>
+    </tr>
+  </tfoot>
+</table>
 
 </div>
 
 ---
 
-## 🌱 Actualmente Aprendiendo
+## 📡 Habilidades · `$ ./skills --radar`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-light.svg" width="390" alt="Radar de habilidades">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+    <img src="assets/radar-langs-light.svg" width="370" alt="Radar de lenguajes">
+  </picture>
+</p>
+
+<p align="center"><sub><code>signals: skill_radar · language_radar · status: learning</code></sub></p>
+
+---
+
+## 🌱 Actualmente Aprendiendo · `$ ls ~/learning`
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="120" />
@@ -161,7 +205,7 @@ const juan = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats · `$ git shortlog --stat`
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" />
@@ -210,7 +254,7 @@ const juan = {
 
 ---
 
-## 📫 Conecta Conmigo
+## 📫 Conecta Conmigo · `$ connect --socials`
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
